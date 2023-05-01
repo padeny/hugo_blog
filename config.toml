@@ -1,7 +1,7 @@
 # ------------------------------------- #
 # ---- General Settings --------------- #
 # ------------------------------------- #
-baseURL = "https://padeny.win"
+baseURL = "https://www.padeny.win"
 title = "Padeny"
 theme = "hugo-theme-den"
 enableRobotsTXT = true       # generate robots.txt
