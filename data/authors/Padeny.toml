@@ -1,0 +1,10 @@
+url = "https://www.padeny.win"
+
+[name]
+display = "Padeny"
+
+[image]
+url = "images/padeny.png"
+
+[zh-cn]
+description = "todo"
